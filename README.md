@@ -26,7 +26,7 @@ Este projeto utiliza aprendizado de máquina para prever se uma notícia é verd
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu_usuario/seu_repositorio.git
+   git clone https://github.com/MarcelFeo/fake_news_prediction.git
    ```
 
 2. Instale as dependências:
